@@ -1,5 +1,6 @@
-# Talking Data: Comparing Favorites Starter Code
-Fork this project to get started on the project.
+# Talking Data: Comparing Favorites
+I created this project for the Girls Who Code Summer Pathways Program 2025. Talking Data: Comparing Favorites is the first project I made for the Data Science track. Below are the requirements and information provided by Girls Who Code. This project was also submitted to Hack Club's Athena Award, a technical certificate for female and non-binary coders.
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
 
 ### Project Requirements
 Your project should:
